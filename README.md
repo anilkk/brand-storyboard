@@ -7,7 +7,7 @@ Fork of Brand Storyboard from  Laura Busche
 
 ## How to create Brand Storyboard?
 [THE DESIGNER’S GUIDE TO BUILDING A BRAND STORY](https://www.invisionapp.com/blog/the-designers-guide-to-building-a-brand-story/) from 
-
-##Download
+Laura Busche.
+## Download
 1. [PNG](https://github.com/anilkk/brand-storyboard/raw/master/brand%20storyborad.png)
 2. [PDF](https://github.com/anilkk/brand-storyboard/raw/master/brand%20storyborad.pdf) 
